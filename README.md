@@ -1,5 +1,6 @@
 # fireprotocol
-Repository for fireprotocol.com
+
+Python scripts, normally for network automation and applications.
 
 Information goes here.
 
